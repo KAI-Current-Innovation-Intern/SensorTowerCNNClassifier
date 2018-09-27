@@ -15,7 +15,7 @@ import argparse
 # that stores the model weights and structure. It is also possible to reload a checkpoint to resume or
 # further train the network.
 ###
-
+sadkfjasjk
 # global constants for the script
 VALIDATIONSIZE = 900
 BATCHSIZE = 100
